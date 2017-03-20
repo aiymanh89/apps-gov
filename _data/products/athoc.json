@@ -31,6 +31,6 @@
     "pta":true,
     "pia":true,
     "sorn":true,
-    "fedramp_inprocess_agency":"https://www.fedramp.gov/marketplace/in-process-systems/athoc-athoc-networked-crisis-communication-platform/",
+    "fedramp_inprocess_agency":"http://www.athoc.com",
     "ato_agency":true
 }
